@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nicorponic
-- 👀 I’m interested in software and business development
-- 🌱 I’m currently learning advanced javascript, used in new libraries and frameworks
-- 💞️ I’m looking to collaborate on impactful projects
+- 👋 Hi, I’m Niko (@nicorponic)
+- 👀 I’m interested in software and business engineering and development
+- 🌱 I’m currently learning advanced javascript, used in new libraries and frameworks (VueJS, ReactJS, NodeJS, *JS)
+- 💞️ I’m looking forward to collaborating on impactful projects
 - 📫 How to reach me? fragkopoulos.nikos@gmail.com | n1co_frago@hotmail.com
 
 <!---
